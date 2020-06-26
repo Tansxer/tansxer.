@@ -1164,7 +1164,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #002e05;
+  background: #bb75ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2312,4 +2312,7 @@ body #footer > div > div {
 .main-inner {
   background: #fff;
   opacity: 0.9;
+}
+.footer-inner {
+  color: #1e729f;
 }
